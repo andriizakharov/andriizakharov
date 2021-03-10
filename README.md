@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Andrii, a data scientist currently working in e-commerce. Looking to improve my interface with the wider world! 🌍 🤓
+
 <!--
 **andriizakharov/andriizakharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
